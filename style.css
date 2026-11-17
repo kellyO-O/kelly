@@ -1,0 +1,9 @@
+div {
+  display: grid;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 100vh;
+  gap: 1px;
+}
